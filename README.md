@@ -1,4 +1,7 @@
-<a href="https://twitter.com/emilyldolson" class="twitter-follow-button" data-show-count="false">Follow @emilyldolson</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?text=Follow+me+on+Twitter!&url=https%3A%2F%2Fgithub.com%2Femilydolson&hashtags=&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Follow me on Twitter!"></img>
+</a>
 
 <!--
 **emilydolson/emilydolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
