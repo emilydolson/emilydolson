@@ -1,7 +1,21 @@
-<a href="https://twitter.com/intent/tweet?text=Follow+me+on+Twitter!&url=https%3A%2F%2Fgithub.com%2Femilydolson&hashtags=&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
-  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
-       alt="tweet button" title="Follow me on Twitter!"></img>
-</a>
+# Index of repos you might be looking for
+
+## Courses I've taught
+
+- [CSE 830: Design and Theory of Algorithms (Spring 2021)](https://github.com/emilydolson/CSE-830-SS-2021)
+- [CSE 431: Algorithm Engineering (Fall 2020)](https://github.com/emilydolson/CSE-431-FS-2020)
+
+## Tools I develop/contribute to
+
+- [Empirical](https://github.com/devosoft/Empirical)
+- [Force-cover](https://github.com/emilydolson/force-cover)
+- [Avida spatial tools](https://github.com/emilydolson/avida-spatial-tools)
+
+## Papers I've written
+
+- [The Measurements of Open-ended Dynamics in Evolving Systems Toolbox](https://github.com/emilydolson/MODES-toolbox-paper)
+- [Visualizing fitness landscapes in VR](https://github.com/emilydolson/fitness_landscape_visualizations)
+
 
 <!--
 **emilydolson/emilydolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
