@@ -1,4 +1,4 @@
-# Index of repos you might be looking for
+# Index of repos
 
 <table><tr><td valign="top" width="33%">
 
