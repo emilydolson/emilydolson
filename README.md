@@ -21,6 +21,8 @@
 
 - [The Measurements of Open-ended Dynamics in Evolving Systems Toolbox](https://github.com/emilydolson/MODES-toolbox-paper)
 - [Visualizing fitness landscapes in VR](https://github.com/emilydolson/fitness_landscape_visualizations)
+- [Interpreting the Tape of Life: Ancestry-based Analyses Provide Insights and Intuition about Evolutionary Dynamics](https://github.com/emilydolson/interpreting_the_tape_of_life)
+- [What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?](https://github.com/emilydolson/phylodiversity-metrics-in-EC-GPTP-2021)
 
 </td></tr></table>
 
