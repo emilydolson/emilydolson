@@ -7,7 +7,8 @@
 - [CSE 830: Design and Theory of Algorithms (Spring 2021)](https://github.com/emilydolson/CSE-830-SS-2021)
 - [CSE 431: Algorithm Engineering (Fall 2020)](https://github.com/emilydolson/CSE-431-FS-2020)
 - [CSE 830: Design and Theory of Algorithms (Spring 2022)](https://github.com/emilydolson/CSE-830-SS-22)
-
+- [CSE 830: Design and Theory of Algorithms (Spring 2023)](https://github.com/emilydolson/CSE-830-SS-23)
+  
 </td><td valign="top" width="34%">
 
 ## Tools
@@ -16,6 +17,8 @@
 - [Force-cover](https://github.com/emilydolson/force-cover)
 - [Avida spatial tools](https://github.com/emilydolson/avida-spatial-tools)
 - [Python red-black trees](https://github.com/emilydolson/python-red-black-trees)
+- [Evolutionary Computation Ecology Toolbox](https://github.com/emilydolson/ec_ecology_toolbox)
+- [Phylotrackpy](https://github.com/emilydolson/phylotrackpy)
 
 </td><td valign="top" width="34%">
 
